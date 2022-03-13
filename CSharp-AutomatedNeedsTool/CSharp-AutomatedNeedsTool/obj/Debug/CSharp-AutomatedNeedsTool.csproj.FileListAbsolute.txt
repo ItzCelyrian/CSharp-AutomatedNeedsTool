@@ -1,0 +1,16 @@
+C:\Users\ItzCelyrian\Documents\Visual Studio 2022\CSharp-AutomatedNeedsTool\CSharp-AutomatedNeedsTool\bin\Debug\CSharp-AutomatedNeedsTool.exe.config
+C:\Users\ItzCelyrian\Documents\Visual Studio 2022\CSharp-AutomatedNeedsTool\CSharp-AutomatedNeedsTool\bin\Debug\CSharp-AutomatedNeedsTool.exe
+C:\Users\ItzCelyrian\Documents\Visual Studio 2022\CSharp-AutomatedNeedsTool\CSharp-AutomatedNeedsTool\bin\Debug\CSharp-AutomatedNeedsTool.pdb
+C:\Users\ItzCelyrian\Documents\Visual Studio 2022\CSharp-AutomatedNeedsTool\CSharp-AutomatedNeedsTool\obj\Debug\CSharp-AutomatedNeedsTool.csproj.AssemblyReference.cache
+C:\Users\ItzCelyrian\Documents\Visual Studio 2022\CSharp-AutomatedNeedsTool\CSharp-AutomatedNeedsTool\obj\Debug\CSharp-AutomatedNeedsTool.csproj.SuggestedBindingRedirects.cache
+C:\Users\ItzCelyrian\Documents\Visual Studio 2022\CSharp-AutomatedNeedsTool\CSharp-AutomatedNeedsTool\obj\Debug\CSharp_AutomatedNeedsTool.Form1.resources
+C:\Users\ItzCelyrian\Documents\Visual Studio 2022\CSharp-AutomatedNeedsTool\CSharp-AutomatedNeedsTool\obj\Debug\CSharp_AutomatedNeedsTool.Properties.Resources.resources
+C:\Users\ItzCelyrian\Documents\Visual Studio 2022\CSharp-AutomatedNeedsTool\CSharp-AutomatedNeedsTool\obj\Debug\CSharp-AutomatedNeedsTool.csproj.GenerateResource.cache
+C:\Users\ItzCelyrian\Documents\Visual Studio 2022\CSharp-AutomatedNeedsTool\CSharp-AutomatedNeedsTool\obj\Debug\CSharp-AutomatedNeedsTool.csproj.CoreCompileInputs.cache
+C:\Users\ItzCelyrian\Documents\Visual Studio 2022\CSharp-AutomatedNeedsTool\CSharp-AutomatedNeedsTool\obj\Debug\CSharp-AutomatedNeedsTool.exe
+C:\Users\ItzCelyrian\Documents\Visual Studio 2022\CSharp-AutomatedNeedsTool\CSharp-AutomatedNeedsTool\obj\Debug\CSharp-AutomatedNeedsTool.pdb
+C:\Users\ItzCelyrian\Documents\Visual Studio 2022\CSharp-AutomatedNeedsTool\CSharp-AutomatedNeedsTool\bin\Debug\CSharp-AutomatedNeedsTool.exe.manifest
+C:\Users\ItzCelyrian\Documents\Visual Studio 2022\CSharp-AutomatedNeedsTool\CSharp-AutomatedNeedsTool\bin\Debug\CSharp-AutomatedNeedsTool.application
+C:\Users\ItzCelyrian\Documents\Visual Studio 2022\CSharp-AutomatedNeedsTool\CSharp-AutomatedNeedsTool\obj\Debug\CSharp-AutomatedNeedsTool.TrustInfo.xml
+C:\Users\ItzCelyrian\Documents\Visual Studio 2022\CSharp-AutomatedNeedsTool\CSharp-AutomatedNeedsTool\obj\Debug\CSharp-AutomatedNeedsTool.exe.manifest
+C:\Users\ItzCelyrian\Documents\Visual Studio 2022\CSharp-AutomatedNeedsTool\CSharp-AutomatedNeedsTool\obj\Debug\CSharp-AutomatedNeedsTool.application
