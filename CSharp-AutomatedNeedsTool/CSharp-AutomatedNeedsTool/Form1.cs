@@ -48,6 +48,12 @@ namespace CSharp_AutomatedNeedsTool
             var type = "none";
             var rate = textBox3.Text;
             int num = Convert.ToInt32(textBox2.Text);
+            var prop = "nil";
+            if (textBox4.Text.Length == 1)
+            {
+                prop = textBox4.Text;
+            }
+            else prop = "nil";
 
 
             if (checkBox1.Checked == true)
@@ -63,7 +69,8 @@ namespace CSharp_AutomatedNeedsTool
                                 $"[\'{num}\'] = " + "{\r\n" +
                                 $"      [\'item\'] = \'{item}\',\r\n" +
                                 $"      [\'type\'] = {type},\r\n" +
-                                $"      [\'rate\'] = {rate}\r\n" +
+                                $"      [\'rate\'] = {rate},\r\n" +
+                                $"      [\'prop\'] = {prop}\r\n" +
                                 "},";
             num = num + 1;
             textBox2.Text = Convert.ToString(num);
